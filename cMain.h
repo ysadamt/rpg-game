@@ -10,7 +10,7 @@
 class cMain : public wxFrame
 {
 public:
-	cMain() : wxFrame(nullptr, wxID_ANY, "Simple Text RPG", wxDefaultPosition)
+	cMain() : wxFrame(nullptr, wxID_ANY, "Text RPG", wxDefaultPosition)
 	{
 		/* center and color main frame */
 		this->Center();
