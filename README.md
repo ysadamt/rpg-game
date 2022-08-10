@@ -1,7 +1,7 @@
 # Text RPG Game
 A simple text-based RPG game with a GUI.
 
-![alt text](screenshot1.png)
+![alt text](screenshot1.PNG)
 
 ## How It's Made:
 
