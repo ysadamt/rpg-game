@@ -2,9 +2,9 @@
 A simple text-based RPG game with a GUI.
 
 <p align="middle">
-  <img src="screenshot1.PNG" alt="GUI Design" width="300" />
-  <img src="screenshot2.PNG" alt="Name Input Dialog" width="300" /> 
-  <img src="screenshot3.PNG" alt="Gameplay" width="300" />
+  <img src="screenshot1.PNG" alt="GUI Design" width="334" />
+  <img src="screenshot2.PNG" alt="Name Input Dialog" width="334" /> 
+  <img src="screenshot3.PNG" alt="Gameplay" width="334" />
 </p>
 
 ## How It's Made:
