@@ -1,7 +1,11 @@
 # Text RPG Game
 A simple text-based RPG game with a GUI.
 
-![alt text](screenshot1.PNG)
+<p align="middle">
+  <img src="screenshot1.PNG" width="150" />
+  <img src="screenshot2.PNG" width="150" /> 
+  <img src="screenshot3.PNG" width="150" />
+</p>
 
 ## How It's Made:
 
